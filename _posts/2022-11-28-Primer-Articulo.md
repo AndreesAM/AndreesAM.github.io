@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Reco-blog
 published: true
 ---
 # Recsys - Magister Inteligencia Artificial 2022
@@ -10,4 +10,3 @@ published: true
 ## Sistemas Recomendadores Conversacionales
 
 ## Dominios de aplicación e investigación reciente
-

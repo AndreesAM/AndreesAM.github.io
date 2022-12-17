@@ -3,10 +3,10 @@ layout: post
 title: Reco-blog
 published: true
 ---
-# Recsys - Magister Inteligencia Artificial 2022
+## Recsys - Magister Inteligencia Artificial 2022
 
-## Justicia, Explicabilidad y Transparencia en Sistemas de Recomendación
+### Justicia, Explicabilidad y Transparencia en Sistemas de Recomendación
 
-## Sistemas Recomendadores Conversacionales
+### Sistemas Recomendadores Conversacionales
 
-## Dominios de aplicación e investigación reciente
+### Dominios de aplicación e investigación reciente

@@ -11,6 +11,8 @@ Durante el año 2002 se estrenó una pelicula llamada Sentencia Previa (o en ing
 
 Años despues del estreno de Minorty Report, en el 2016, la Corte Suprema de Wisconsin, aprobó el uso de [COMPAS](https://en.wikipedia.org/wiki/COMPAS_(software)), un algoritmo que segun sus creadores, es capaz de determinar la probabilidad de reincidencia de los reos. A priori, lo anterior puede sonar bien, dictar sentencias basado en que tan probable es que una determinada persona vuelva a cometer un crimen puede hacer la diferencia entre una sentencia como reclusion nocturna, por ejemplo o, una prision preventiva, con todos los costos asociados a la persona y a la sociedad.
 
+Ahora bien. **¿Que tiene que ver la pelicula con COMPAS?** La similitud radica en que en ambos casos se intenta predecir comportamiento criminal.Para esto, en la pelicula utilizan *"siquicos precognitivos"* mientras que, en COMPAS se utiliza un algoritmo del cual sabemos pocos al estar protegido por **secreto comercial**. Como sea, en ambos casos es una caja negra el sistema utilizado para las predicciones. 
+
 ### Sistemas Recomendadores Conversacionales
 
 ### Dominios de aplicación e investigación reciente

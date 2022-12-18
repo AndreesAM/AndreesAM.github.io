@@ -77,3 +77,36 @@ Finalmente, los autores testean bajo varios metodos distintos algoritmos y pese 
 
 
 ### Dominios de aplicación e investigación reciente
+
+
+Haciendo un paralelo con David Hilbert, quien en agosto de 1900 presentó una lista de 10 de los 23 grandes problemas de las matematicas, de los cuales si se resolvia alguno de ellos, podria conllevar grandes avances en el area y en otras ciencias. Se presentaron 10 problematicas de sistemas recomendadores que, al igual que la lista de Hilbert, en caso de resolverlos se podrian lograr grandes avances. Entre ellos se mencionó la **falta de control y transparencia para el usuario**.
+
+En relación con el item anterior, se presentó un paper llamado [Prince](https://arxiv.org/pdf/1911.08378.pdf) Provider-side Interpretability with Counterfactual Explanations in Recommender Systems, el cual busca identificar un set de acciones que llevo a cabo el usuario, tal que, quitando dichas decisiones, hubiese resultado en una recomendación diferente por parte del sistema. De esta manera, el usuario puede tener cierto control o entendimiento de como son tomadas las decisiones acerca de que recomendar por parte de algun sistema. Como resultado, se busca que las explicaciones que entrega PRINCE sean:
+
+* Escrutables 
+* Procesables
+* Concisas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
